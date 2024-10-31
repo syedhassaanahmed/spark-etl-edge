@@ -12,6 +12,7 @@
             "extensions": [
                 "caarlos0.language-prometheus",
                 "databricks.databricks",
+                "github.vscode-github-actions",
                 "hashicorp.terraform",
                 "hediet.vscode-drawio",
                 "jeppeandersen.vscode-kafka",
